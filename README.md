@@ -110,14 +110,21 @@ public class ZooQueue {
 }
 ```
 📖 Penjelasan
+
 Queue: Struktur data FIFO (First In, First Out).
+
 LinkedList: Digunakan untuk mengimplementasikan antrean.
+
 Scanner: Digunakan untuk menerima input dari pengguna.
+
 🧑‍🎓 Tugas Mahasiswa
+
 Tambahkan fitur untuk menghitung jumlah pengunjung dalam antrean.
 Tambahkan validasi jika nama pengunjung sudah ada dalam antrean.
 Dokumentasikan program menggunakan komentar untuk setiap bagian kode.
+
 📜 Lisensi
 Proyek ini menggunakan lisensi MIT. Anda bebas menggunakannya untuk tujuan belajar.
+
 
 Happy coding! 🚀#
